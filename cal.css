@@ -1,0 +1,80 @@
+.main-body{
+    text-align: center;
+ 
+    background: #bf4d5d;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: linear-gradient(#bf4d5d, rgb(14, 14, 13));
+}
+.calc{
+   max-width: 360px;
+   background-color: #0d1b2a;
+   border-radius: 10px;
+   padding: 20px;
+   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+   border-top-left-radius: 15px;
+   border-top-right-radius: 15px;
+   border-bottom-right-radius: 15px;
+   border-bottom-left-radius: 15px;
+}
+.output{
+    margin-left: 20px;
+    margin-top: 12px;
+    margin-right: 20px;
+    border: solid 2px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    font-size: 16px;
+ 
+    
+}
+#screen{
+    width: 242px;
+    height: 45px;
+    color:aqua;
+    background: #0d1b2a;
+    border-radius: 18px;
+    padding: 20px; 
+    width: 208px;
+    height: 15px;  
+    font-size: 16px;
+    
+
+}
+.rows{
+    padding-left: 0px;
+    margin-top: 18px;
+    margin-left: 20px;
+    margin-right: 20px;   
+
+}
+.btn{
+    width: 62px;
+    height: 50px;
+    color:aqua;
+    background: #0d1b2a;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    font-size: 16px;
+
+}
+.clrbtn{
+    width: 256px;
+    height: 50px;
+    color:aqua;
+    background: #0d1b2a;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    font-size: 16px;
+
+
+
+}
